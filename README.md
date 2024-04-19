@@ -16,7 +16,7 @@ I'm a Computer Science and Game Development major at Northeastern University. I'
 <a href="https://www.instagram.com/nu_honu/"> <img src="https://drive.google.com/uc?export=view&id=19xcc1ulDrjNQ_mJ1bPJI-qr3mpfyKT9Y" width = 100px height = 100px style = "margin-left: 100px, display: inline-block"> </a>
 <a href="https://www.autonodyne.ai/"> <img src="https://drive.google.com/uc?export=view&id=1wa9W6nQ4F_SNrmMZeYR3rp5077aT_imf" width = 100px height = 100px>
 <a href="https://nakupuna.com/2020/05/29/nakupuna-foundation-supports-scholarships-for-native-hawaiian-students/"> <img src="https://drive.google.com/uc?export=view&id=1irScDt9YCep-DJmQBhni8GMMEwY8lmUd" width = 300px height =100px>
-<a href="https://www.paubox.com/kahikina-stem-scholarship"> <img src="https://drive.google.com/uc?export=view&id=1py8-4geQ7jkR-ZSUGx6bxPFoQf6ZWfnD" width = 120 height=100 style="margin-left: 50px>
+<a href="https://www.paubox.com/kahikina-stem-scholarship"> <img src="https://drive.google.com/uc?export=view&id=1py8-4geQ7jkR-ZSUGx6bxPFoQf6ZWfnD" width = 120 height=100 style="margin-left: 50px">
 <img src="https://drive.google.com/uc?export=view&id=16etVTyo3kycePME9LPP2M4gqqG_28uus" width = 100px height= 100px>
 
 ## Reach out to me!
