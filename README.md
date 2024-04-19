@@ -17,6 +17,7 @@ I'm a Computer Science and Game Development major at Northeastern University. I'
 <a href="https://www.autonodyne.ai/"> <img src="https://drive.google.com/uc?export=view&id=1wa9W6nQ4F_SNrmMZeYR3rp5077aT_imf" width = 100px height = 100px>
 <a href="https://nakupuna.com/2020/05/29/nakupuna-foundation-supports-scholarships-for-native-hawaiian-students/"> <img src="https://drive.google.com/uc?export=view&id=1irScDt9YCep-DJmQBhni8GMMEwY8lmUd" width = 300px height =100px>
 <a href="https://www.paubox.com/kahikina-stem-scholarship"> <img src="https://drive.google.com/uc?export=view&id=1py8-4geQ7jkR-ZSUGx6bxPFoQf6ZWfnD" width = 120 height=100 style="margin-left: 50px">
+<img src="https://drive.google.com/file/d/16etVTyo3kycePME9LPP2M4gqqG_28uus/view?usp=sharing" width = 100px height= 100px>
 
 ## Reach out to me!
 <a href= "https://www.linkedin.com/in/dylan-dinio/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
