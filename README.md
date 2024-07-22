@@ -20,8 +20,8 @@ I'm a Computer Science and Game Development major at Northeastern University. I'
 <img src="https://drive.google.com/uc?export=view&id=14ZWlSVbzb9KZnYssD3fgW7eoU-btLN8Q" width = 150px height= 150px>
 
 ## Reach out to me!
-<a href= "https://www.linkedin.com/in/dylan-dinio/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-<a href="mailto:ddinio2101@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href= "https://www.linkedin.com/in/dylan-dinio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ddinio2101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--
 **dkd2101/dkd2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
